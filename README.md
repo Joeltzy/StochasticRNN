@@ -7,7 +7,7 @@ Sequential Neural Models with Stochastic Layers <br>
 Marco Fraccaro, Søren Kaae Sønderby, Ulrich Paquet, Ole Winther <br>
 NIPS 2016, arXiv preprint [arXiv:1605.07571](https://arxiv.org/abs/1605.07571)
 
-The implementation is built using [PyTorch](https://pytorch.org/) Framework. It is part of the submission for the MA4199 Honors Year Project from National University of Singapore.
+The implementation is built using [PyTorch](https://pytorch.org/) Framework. It is part of the submission for the MA4199 Honors Year Project from National University of Singapore (NUS).
 
 ## Repository Layout
 * **3_Code**: SRNN and LSTM Model
