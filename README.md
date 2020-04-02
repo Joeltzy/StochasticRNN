@@ -19,7 +19,7 @@ The implementation is built using [PyTorch](https://pytorch.org/) Framework.
 ```
 $ git clone https://github.com/Joeltzy/StochasticRNN.git
 ```
-3. Run the command ```jupyter notebook``` in Terminal. 
+3. Run the command ```jupyter notebook``` in Terminal after Jupyter had been installed.
 4. Access the folder **3_Code** and open the file **SRNN_LSTM.ipynb** using jupyter.
 5. Code can be run cell by cell. 
 
