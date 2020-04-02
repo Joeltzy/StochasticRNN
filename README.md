@@ -1,7 +1,7 @@
 # Stochastic Recurrent Neural Networks With Applications To S&P500 Daily Returns Prediction
 
 ## Introduction
-This repository contains of an implementation of the Stochastic Recurrent Neural Network (SRNN) model described in
+This repository contains an implementation of the Stochastic Recurrent Neural Network (SRNN) model described in
 
 Sequential Neural Models with Stochastic Layers <br>
 Marco Fraccaro, Søren Kaae Sønderby, Ulrich Paquet, Ole Winther <br>
