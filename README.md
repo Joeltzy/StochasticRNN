@@ -1,19 +1,20 @@
 # Stochastic Recurrent Neural Networks With Applications To S&P500 Daily Returns Prediction
 
+## Introduction
 This repository contains of an implementation of the Stochastic Recurrent Neural Network (SRNN) model described in
 
 Sequential Neural Models with Stochastic Layers <br>
 Marco Fraccaro, Søren Kaae Sønderby, Ulrich Paquet, Ole Winther <br>
 NIPS 2016, arXiv preprint [arXiv:1605.07571](https://arxiv.org/abs/1605.07571)
 
-The implementation is built using [PyTorch](https://pytorch.org/) Framework.
+The implementation is built using [PyTorch](https://pytorch.org/) Framework. It is part of the submission for the MA4199 Honors Year Project from National University of Singapore.
 
-# Repository Layout
+## Repository Layout
 * **3_Code**: SRNN and LSTM Model
 * **4_Data**: Daily Financial Data of S&P500 
 * **Images**: Images of various plots generated
 
-# Running the Code
+## Running the Code
 1. Download [Jupyter](https://jupyter.org/install) Software either using conda or pip.
 2. Clone the repository by running the command below.
 ```
