@@ -12,7 +12,7 @@ The implementation is built using [PyTorch](https://pytorch.org/) Framework. It 
 ## Repository Layout
 * **3_Code**: SRNN and LSTM Model
 * **4_Data**: Daily Financial Data of S&P500 
-* **Images**: Images of various plots generated
+* **images**: Images of various plots generated
 
 ## Running the Code
 1. Download [Jupyter](https://jupyter.org/install) Software either using conda or pip.
