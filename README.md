@@ -15,7 +15,7 @@ The implementation is built using [PyTorch](https://pytorch.org/) Framework. It 
 * **images**: Images of various plots generated
 
 ## Running the Code
-1. Download [Jupyter](https://jupyter.org/install) Software either using conda or pip.
+1. Download [Jupyter](https://jupyter.org/install) Software either using conda or pip. The installation guide can be accessed via this [link](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html)
 2. Clone the repository by running the command below.
 ```
 $ git clone https://github.com/Joeltzy/StochasticRNN.git
