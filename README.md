@@ -15,8 +15,12 @@ The implementation is built using [PyTorch](https://pytorch.org/) Framework.
 
 # Running the Code
 1. Download [Jupyter](https://jupyter.org/install) Software either using conda or pip.
-2. 
-
+2. 1. Clone the repository.
+```
+$ git clone https://github.com/Joeltzy/StochasticRNN.git
+```
+3. Run ```jupyter notebook``` in Terminal. 
+4.
 
 
 
