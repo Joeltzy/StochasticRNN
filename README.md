@@ -6,11 +6,17 @@ Sequential Neural Models with Stochastic Layers <br>
 Marco Fraccaro, Søren Kaae Sønderby, Ulrich Paquet, Ole Winther <br>
 NIPS 2016, arXiv preprint [arXiv:1605.07571](https://arxiv.org/abs/1605.07571)
 
-The implementation is built using PyTorch Framework.
+The implementation is built using [PyTorch](https://pytorch.org/) Framework.
 
 # Repository Layout
-* **4_Data**: Daily Financial Data of S&P500 
 * **3_Code**: SRNN and LSTM Model
+* **4_Data**: Daily Financial Data of S&P500 
+* **Images**: Images of various plots generated
+
+# Running the Code
+1. Download [Jupyter](https://jupyter.org/install) Software either using conda or pip.
+2. 
+
 
 
 
